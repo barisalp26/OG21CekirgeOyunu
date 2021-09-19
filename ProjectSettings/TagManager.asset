@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Duvar
+  - kozalak
+  - Dalucu
+  - kozalakDestroy
+  - cekirge
+  - coins
+  - UgurBocek
+  - Mushroom
+  - bukalemun
+  - stickwall
+  - bukalemunR
+  - bukalemunL
+  - stickWallL
+  - stickWallR
+  - mantar
+  - atesbocek
   layers:
   - Default
   - TransparentFX
@@ -11,8 +27,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Background
+  - cekirge
   - 
   - 
   - 
